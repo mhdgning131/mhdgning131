@@ -16,4 +16,4 @@
 - **Tools**: Kali Linux, VirtualBox, Wireshark, Packet Tracer and more !
 
 📫 **Let's Connect**:
-- 📧 Email: yourname@example.com
+- 📧 Email: mgning.pro@gmail.com
