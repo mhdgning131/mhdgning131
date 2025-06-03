@@ -15,7 +15,7 @@
 
 I'm **Mohamed G.**, a Security Researcher and aspiring **Cybersecurity Specialist** and **Cloud Penetration Tester**. With a strong passion for technology and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community. I have experience in various security domains and I'm constantly learning new techniques to stay ahead of emerging threats.
 
-- 🔒 I'm currently learning ...
+- I'm currently learning ...
   - *Advanced Web Security & Malware Forensics*
   - *Penetration Testing Methodologies*
   - *Cloud Security*
@@ -24,7 +24,7 @@ I'm **Mohamed G.**, a Security Researcher and aspiring **Cybersecurity Specialis
 - Outside tech, I enjoy researching new vulnerabilities, playing CTF challenges and chilling with my loved ones.
 - Reach out to me at: <a href="mailto:mhdgning@proton.me">mhdgning@proton.me</a>
 - **From**: Senegal
-- 🛡️ **Security Hunter** | **Security Researcher** | **Forensics Analyst**
+- **Security Hunter** | **Security Researcher** | **Forensics Analyst**
 
 <br>
 
