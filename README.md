@@ -20,7 +20,7 @@ I'm **Mohamed G.**, a Security Researcher and aspiring **Cybersecurity Specialis
 - I'm eager to join cybersecurity projects and bug bounty programs.
 - Feel free to ask me anything about security! I'm motivated to help others learn.
 - Outside tech, I enjoy researching new vulnerabilities, playing CTF challenges and chilling with my loved ones.
-- Reach out to me at: <a href="mailto:mhdgning@proton.me">mhdgning@proton.me</a>
+- Reach out to me at: <a href="mailto:contact@mohamedg.me">contact@mohamedg.me</a>
 - **From**: Senegal
 - **Security Hunter** | **Security Researcher** | **Forensics Analyst**
 
