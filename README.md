@@ -77,29 +77,6 @@ I'm **Mohamed G.**, a Security Researcher and aspiring **Cybersecurity Specialis
 <br>
 <br>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Current Focus***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Security Research</h3>
-      <div align="center">
-        <a href="https://github.com/YourUsername" target="_blank">
-          <img src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif" width="300" style="object-fit: cover;" alt="Security Research">
-        </a>
-        <p>
-          <a href="https://github.com/mhdgning131" target="_blank">
-            <img src="https://img.shields.io/badge/PROJECTS-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
-          </a>
-        </p>
-        <p><strong>Currently focusing on</strong> web security vulnerabilities, malware forensics, and contributing to open source security projects. <strong>Journey to become</strong> a recognized cybersecurity specialist.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-<br>
-
 <!-- Github Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
