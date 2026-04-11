@@ -17,15 +17,13 @@
 <circle cx="40" cy="20" r="5" fill="#febc2e"/>
 <circle cx="56" cy="20" r="5" fill="#28c840"/>
 <text x="430" y="24" text-anchor="middle" fill="#d0d7de" font-size="12">mohamed⼺Darksec - bash - 120×40</text>
-<text x="32" y="48" fill="#1a7f37" font-weight="normal"> /$$$$$$$   /$$$$$$  /$$$$$$$  /$$   /$$  /$$$$$$  /$$$$$$$$  /$$$$$$</text>
-<text x="32" y="68" fill="#1a7f37" font-weight="normal">| $$__  $$ /$$__  $$| $$__  $$| $$  /$$/ /$$__  $$| $$_____/ /$$__  $$</text>
-<text x="32" y="88" fill="#1a7f37" font-weight="normal">| $$  \ $$| $$  \ $$| $$  \ $$| $$ /$$/ | $$  \__/| $$      | $$  \__/</text>
-<text x="32" y="108" fill="#1a7f37" font-weight="normal">| $$  | $$| $$$$$$$$| $$$$$$$/| $$$$$/  |  $$$$$$ | $$$$$   | $$      </text>
-<text x="32" y="128" fill="#1a7f37" font-weight="normal">| $$  | $$| $$__  $$| $$__  $$| $$  $$   \____  $$| $$__/   | $$      </text>
-<text x="32" y="148" fill="#1a7f37" font-weight="normal">| $$  | $$| $$  | $$| $$  \ $$| $$\  $$  /$$  \ $$| $$      | $$    $$</text>
-<text x="32" y="168" fill="#24292f" font-weight="normal"></text>
-<text x="32" y="188" fill="#d0d7de" font-weight="normal">──────────────────────────────────────────────────────────────────────────</text>
-<text x="32" y="208" fill="#24292f" font-weight="normal"></text>
+<text x="32" y="48" fill="#3fb950" font-weight="normal">██████╗  █████╗ ██████╗ ██╗  ██╗███████╗███████╗ ██████╗</text>
+<text x="32" y="68" fill="#3fb950" font-weight="normal">██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██╔════╝██╔════╝██╔════╝</text>
+<text x="32" y="88" fill="#3fb950" font-weight="normal">██║  ██║███████║██████╔╝█████╔╝ ███████╗█████╗  ██║     </text>
+<text x="32" y="108" fill="#3fb950" font-weight="normal">██║  ██║██╔══██║██╔══██╗██╔═██╗ ╚════██║██╔══╝  ██║     </text>
+<text x="32" y="128" fill="#3fb950" font-weight="normal">██████╔╝██║  ██║██║  ██║██║  ██╗███████║███████╗╚██████╗</text>
+<text x="32" y="148" fill="#3fb950" font-weight="normal">╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝</text>
+<text x="32" y="168" fill="#c9d1d9" font-weight="normal"></text>
 <text x="32" y="228" xml:space="preserve"><tspan fill="#0969da" font-weight="normal">┌─[</tspan><tspan fill="#1a7f37" font-weight="normal">mohamed⼺Darksec</tspan><tspan fill="#0969da" font-weight="normal">]─[</tspan><tspan fill="#9a6700" font-weight="normal">~</tspan><tspan fill="#0969da" font-weight="normal">]</tspan></text>
 <text x="32" y="248" xml:space="preserve"><tspan fill="#0969da" font-weight="normal">└──╼ </tspan><tspan fill="#1f2328" font-weight="normal">whoami</tspan></text>
 <text x="32" y="268" fill="#24292f" font-weight="normal"></text>
