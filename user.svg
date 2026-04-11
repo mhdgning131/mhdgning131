@@ -17,12 +17,12 @@
 <circle cx="40" cy="20" r="5" fill="#febc2e"/>
 <circle cx="56" cy="20" r="5" fill="#28c840"/>
 <text x="430" y="24" text-anchor="middle" fill="#484f58" font-size="12">mohamed⼺Darksec - bash - 120×40</text>
-<text x="32" y="48" fill="#3fb950" font-weight="normal"> /$$$$$$$   /$$$$$$  /$$$$$$$  /$$   /$$  /$$$$$$  /$$$$$$$$  /$$$$$$</text>
-<text x="32" y="68" fill="#3fb950" font-weight="normal">| $$__  $$ /$$__  $$| $$__  $$| $$  /$$/ /$$__  $$| $$_____/ /$$__  $$</text>
-<text x="32" y="88" fill="#3fb950" font-weight="normal">| $$  \ $$| $$  \ $$| $$  \ $$| $$ /$$/ | $$  \__/| $$      | $$  \__/</text>
-<text x="32" y="108" fill="#3fb950" font-weight="normal">| $$  | $$| $$$$$$$$| $$$$$$$/| $$$$$/  |  $$$$$$ | $$$$$   | $$      </text>
-<text x="32" y="128" fill="#3fb950" font-weight="normal">| $$  | $$| $$__  $$| $$__  $$| $$  $$   \____  $$| $$__/   | $$      </text>
-<text x="32" y="148" fill="#3fb950" font-weight="normal">| $$  | $$| $$  | $$| $$  \ $$| $$\  $$  /$$  \ $$| $$      | $$    $$</text>
+<text x="32" y="48" fill="#3fb950" font-weight="normal">██████╗  █████╗ ██████╗ ██╗  ██╗███████╗███████╗ ██████╗</text>
+<text x="32" y="68" fill="#3fb950" font-weight="normal">██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██╔════╝██╔════╝██╔════╝</text>
+<text x="32" y="88" fill="#3fb950" font-weight="normal">██║  ██║███████║██████╔╝█████╔╝ ███████╗█████╗  ██║     </text>
+<text x="32" y="108" fill="#3fb950" font-weight="normal">██║  ██║██╔══██║██╔══██╗██╔═██╗ ╚════██║██╔══╝  ██║     </text>
+<text x="32" y="128" fill="#3fb950" font-weight="normal">██████╔╝██║  ██║██║  ██║██║  ██╗███████║███████╗╚██████╗</text>
+<text x="32" y="148" fill="#3fb950" font-weight="normal">╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝</text>
 <text x="32" y="168" fill="#c9d1d9" font-weight="normal"></text>
 <text x="32" y="188" fill="#484f58" font-weight="normal">──────────────────────────────────────────────────────────────────────────</text>
 <text x="32" y="208" fill="#c9d1d9" font-weight="normal"></text>
