@@ -46,7 +46,7 @@
 <text x="32" y="568" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  Reverse Eng.      </tspan><tspan fill="#3fb950" font-weight="normal">█████████████████</tspan><tspan fill="#484f58" font-weight="normal">░░░░░░</tspan><tspan fill="#484f58" font-weight="normal">  76%</tspan></text>
 <text x="32" y="588" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  Binary Exploit    </tspan><tspan fill="#3fb950" font-weight="normal">██████████████████</tspan><tspan fill="#484f58" font-weight="normal">░░░░░</tspan><tspan fill="#484f58" font-weight="normal">  80%</tspan></text>
 <text x="32" y="608" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  Forensics         </tspan><tspan fill="#3fb950" font-weight="normal">████████████████</tspan><tspan fill="#484f58" font-weight="normal">░░░░░░░</tspan><tspan fill="#484f58" font-weight="normal">  70%</tspan></text>
-<text x="32" y="628" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  SOC / Blue Team   </tspan><tspan fill="#3fb950" font-weight="normal">████████████</tspan><tspan fill="#484f58" font-weight="normal">░░░░░░░░░░░</tspan><tspan fill="#484f58" font-weight="normal">  52%</tspan></text>
+<text x="32" y="628" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  SOC / Blue Team   </tspan><tspan fill="#3fb950" font-weight="normal">██████████████████████</tspan><tspan fill="#484f58" font-weight="normal">░░░░░░░░░░░</tspan><tspan fill="#484f58" font-weight="normal">  52%</tspan></text>
 <text x="32" y="648" fill="#c9d1d9" font-weight="normal"></text>
 <text x="32" y="668" fill="#484f58" font-weight="normal">──────────────────────────────────────────────────────────────────────────</text>
 <text x="32" y="688" fill="#c9d1d9" font-weight="normal"></text>
@@ -64,8 +64,7 @@
 <text x="32" y="928" fill="#484f58" font-weight="normal">  ┌────────────────────────────────────────────────────┐</text>
 <text x="32" y="948" xml:space="preserve"><tspan fill="#484f58" font-weight="normal">  │</tspan><tspan fill="#79c0ff" font-weight="normal">  ❯  github    ·  github.com/mhdgning131        </tspan><tspan fill="#484f58" font-weight="normal">│</tspan></text>
 <text x="32" y="968" xml:space="preserve"><tspan fill="#484f58" font-weight="normal">  │</tspan><tspan fill="#79c0ff" font-weight="normal">  ❯  linkedin  ·  Mohamed G.                    </tspan><tspan fill="#484f58" font-weight="normal">│</tspan></text>
-<text x="32" y="988" xml:space="preserve"><tspan fill="#484f58" font-weight="normal">  │</tspan><tspan fill="#79c0ff" font-weight="normal">  ❯  thm       ·  tryhackme.com/p/MohamedG.     </tspan><tspan fill="#484f58" font-weight="normal">│</tspan></text>
-<text x="32" y="1008" xml:space="preserve"><tspan fill="#484f58" font-weight="normal">  │</tspan><tspan fill="#79c0ff" font-weight="normal">  ❯  mail      ·  contact@mohamedg.me           </tspan><tspan fill="#484f58" font-weight="normal">│</tspan></text>
+<text x="32" y="988" xml:space="preserve"><tspan fill="#484f58" font-weight="normal">  │</tspan><tspan fill="#79c0ff" font-weight="normal">  ❯  mail      ·  hello@mohamedg.me           </tspan><tspan fill="#484f58" font-weight="normal">│</tspan></text>
 <text x="32" y="1028" xml:space="preserve"><tspan fill="#484f58" font-weight="normal">  │</tspan><tspan fill="#8b949e" font-weight="normal">  ❯  locale    ·  Dakar / Rufisque · Sénégal    </tspan><tspan fill="#484f58" font-weight="normal">│</tspan></text>
 <text x="32" y="1048" fill="#484f58" font-weight="normal">  └────────────────────────────────────────────────────┘</text>
 <text x="32" y="1068" fill="#c9d1d9" font-weight="normal"></text>
