@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="1248" viewBox="0 0 860 1248">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="1128" viewBox="0 0 860 1128">
 <defs><style>
     @font-face {
       font-family: 'JBM';
@@ -17,62 +17,56 @@
 <circle cx="40" cy="20" r="5" fill="#febc2e"/>
 <circle cx="56" cy="20" r="5" fill="#28c840"/>
 <text x="430" y="24" text-anchor="middle" fill="#484f58" font-size="12">mohamed⼺Darksec - bash - 120×40</text>
-<text x="32" y="48" fill="#3fb950" font-weight="normal">██████╗  █████╗ ██████╗ ██╗  ██╗███████╗███████╗ ██████╗</text>
-<text x="32" y="68" fill="#3fb950" font-weight="normal">██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██╔════╝██╔════╝██╔════╝</text>
-<text x="32" y="88" fill="#3fb950" font-weight="normal">██║  ██║███████║██████╔╝█████╔╝ ███████╗█████╗  ██║     </text>
-<text x="32" y="108" fill="#3fb950" font-weight="normal">██║  ██║██╔══██║██╔══██╗██╔═██╗ ╚════██║██╔══╝  ██║     </text>
-<text x="32" y="128" fill="#3fb950" font-weight="normal">██████╔╝██║  ██║██║  ██║██║  ██╗███████║███████╗╚██████╗</text>
-<text x="32" y="148" fill="#3fb950" font-weight="normal">╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝</text>
-<text x="32" y="168" fill="#c9d1d9" font-weight="normal"></text>
-<text x="32" y="188" fill="#484f58" font-weight="normal">──────────────────────────────────────────────────────────────────────────</text>
-<text x="32" y="208" fill="#c9d1d9" font-weight="normal"></text>
-<text x="32" y="228" xml:space="preserve"><tspan fill="#79c0ff" font-weight="normal">┌─[</tspan><tspan fill="#3fb950" font-weight="normal">mohamed⼺Darksec</tspan><tspan fill="#79c0ff" font-weight="normal">]─[</tspan><tspan fill="#e3b341" font-weight="normal">~</tspan><tspan fill="#79c0ff" font-weight="normal">]</tspan></text>
-<text x="32" y="248" xml:space="preserve"><tspan fill="#79c0ff" font-weight="normal">└──╼ </tspan><tspan fill="#f0f6fc" font-weight="normal">whoami</tspan></text>
+<text x="32" y="48" fill="#c9d1d9" font-weight="normal"></text>
+<text x="32" y="68" fill="#484f58" font-weight="normal">──────────────────────────────────────────────────────────────────────────</text>
+<text x="32" y="88" fill="#c9d1d9" font-weight="normal"></text>
+<text x="32" y="108" xml:space="preserve"><tspan fill="#79c0ff" font-weight="normal">┌─[</tspan><tspan fill="#3fb950" font-weight="normal">mohamed⼺Darksec</tspan><tspan fill="#79c0ff" font-weight="normal">]─[</tspan><tspan fill="#e3b341" font-weight="normal">~</tspan><tspan fill="#79c0ff" font-weight="normal">]</tspan></text>
+<text x="32" y="128" xml:space="preserve"><tspan fill="#79c0ff" font-weight="normal">└──╼ </tspan><tspan fill="#f0f6fc" font-weight="normal">whoami</tspan></text>
+<text x="32" y="148" fill="#c9d1d9" font-weight="normal"></text>
+<text x="32" y="168" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  </tspan><tspan fill="#d2a8ff" font-weight="bold">Mohamed G.</tspan><tspan fill="#484f58" font-weight="normal">  │  </tspan><tspan fill="#f0f6fc" font-weight="normal">Cybersecurity Student &amp; Practitioner</tspan></text>
+<text x="32" y="188" fill="#484f58" font-weight="normal">  ─────────────┼──────────────────────────────────────────────────────</text>
+<text x="32" y="208" xml:space="preserve"><tspan fill="#484f58" font-weight="normal">              │  </tspan><tspan fill="#79c0ff" font-weight="normal">Student @</tspan><tspan fill="#c9d1d9" font-weight="normal">  Cheikh Hamidou Kane Digital University · Rufisque, SN</tspan></text>
+<text x="32" y="228" xml:space="preserve"><tspan fill="#484f58" font-weight="normal">              │  </tspan><tspan fill="#79c0ff" font-weight="normal">⚑</tspan><tspan fill="#c9d1d9" font-weight="normal">  Clubs  :  CCS_UNCHK · C2IR</tspan></text>
+<text x="32" y="248" xml:space="preserve"><tspan fill="#484f58" font-weight="normal">              │  </tspan><tspan fill="#79c0ff" font-weight="normal">⚔</tspan><tspan fill="#c9d1d9" font-weight="normal">  Purple Teamer · Pentest · CTF Organizer &amp; Player</tspan></text>
 <text x="32" y="268" fill="#c9d1d9" font-weight="normal"></text>
-<text x="32" y="288" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  </tspan><tspan fill="#d2a8ff" font-weight="bold">Mohamed G.</tspan><tspan fill="#484f58" font-weight="normal">  │  </tspan><tspan fill="#f0f6fc" font-weight="normal">Cybersecurity Student &amp; Practitioner</tspan></text>
-<text x="32" y="308" fill="#484f58" font-weight="normal">  ─────────────┼──────────────────────────────────────────────────────</text>
-<text x="32" y="328" xml:space="preserve"><tspan fill="#484f58" font-weight="normal">              │  </tspan><tspan fill="#79c0ff" font-weight="normal">Student @</tspan><tspan fill="#c9d1d9" font-weight="normal">  Cheikh Hamidou Kane Digital University · Rufisque, SN</tspan></text>
-<text x="32" y="348" xml:space="preserve"><tspan fill="#484f58" font-weight="normal">              │  </tspan><tspan fill="#79c0ff" font-weight="normal">⚑</tspan><tspan fill="#c9d1d9" font-weight="normal">  Clubs  :  CCS_UNCHK · C2IR</tspan></text>
-<text x="32" y="368" xml:space="preserve"><tspan fill="#484f58" font-weight="normal">              │  </tspan><tspan fill="#79c0ff" font-weight="normal">⚔</tspan><tspan fill="#c9d1d9" font-weight="normal">  Purple Teamer · Pentest · CTF Organizer &amp; Player</tspan></text>
-<text x="32" y="388" fill="#c9d1d9" font-weight="normal"></text>
-<text x="32" y="408" fill="#484f58" font-weight="normal">──────────────────────────────────────────────────────────────────────────</text>
-<text x="32" y="428" fill="#c9d1d9" font-weight="normal"></text>
-<text x="32" y="448" xml:space="preserve"><tspan fill="#79c0ff" font-weight="normal">┌─[</tspan><tspan fill="#3fb950" font-weight="normal">mohamed⼺Darksec</tspan><tspan fill="#79c0ff" font-weight="normal">]─[</tspan><tspan fill="#e3b341" font-weight="normal">~/skills</tspan><tspan fill="#79c0ff" font-weight="normal">]</tspan></text>
-<text x="32" y="468" xml:space="preserve"><tspan fill="#79c0ff" font-weight="normal">└──╼ </tspan><tspan fill="#f0f6fc" font-weight="normal">cat skill_matrix.conf</tspan></text>
-<text x="32" y="488" fill="#c9d1d9" font-weight="normal"></text>
-<text x="32" y="508" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  Web Pentesting    </tspan><tspan fill="#3fb950" font-weight="normal">█████████████</tspan><tspan fill="#484f58" font-weight="normal">░░░░░░░░░░</tspan><tspan fill="#484f58" font-weight="normal">  55%</tspan></text>
-<text x="32" y="528" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  OSINT             </tspan><tspan fill="#3fb950" font-weight="normal">███████████████████</tspan><tspan fill="#484f58" font-weight="normal">░░░░</tspan><tspan fill="#484f58" font-weight="normal">  83%</tspan></text>
-<text x="32" y="548" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  Purple Teaming    </tspan><tspan fill="#3fb950" font-weight="normal">████████████████</tspan><tspan fill="#484f58" font-weight="normal">░░░░░░░</tspan><tspan fill="#484f58" font-weight="normal">  70%</tspan></text>
-<text x="32" y="568" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  Reverse Eng.      </tspan><tspan fill="#3fb950" font-weight="normal">█████████████████</tspan><tspan fill="#484f58" font-weight="normal">░░░░░░</tspan><tspan fill="#484f58" font-weight="normal">  76%</tspan></text>
-<text x="32" y="588" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  Binary Exploit    </tspan><tspan fill="#3fb950" font-weight="normal">██████████████████</tspan><tspan fill="#484f58" font-weight="normal">░░░░░</tspan><tspan fill="#484f58" font-weight="normal">  80%</tspan></text>
-<text x="32" y="608" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  Forensics         </tspan><tspan fill="#3fb950" font-weight="normal">████████████████</tspan><tspan fill="#484f58" font-weight="normal">░░░░░░░</tspan><tspan fill="#484f58" font-weight="normal">  70%</tspan></text>
-<text x="32" y="628" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  SOC / Blue Team   </tspan><tspan fill="#3fb950" font-weight="normal">██████████████████████</tspan><tspan fill="#484f58" font-weight="normal">░</tspan><tspan fill="#484f58" font-weight="normal">  96%</tspan></text>
-<text x="32" y="648" fill="#c9d1d9" font-weight="normal"></text>
-<text x="32" y="668" fill="#484f58" font-weight="normal">──────────────────────────────────────────────────────────────────────────</text>
+<text x="32" y="288" fill="#484f58" font-weight="normal">──────────────────────────────────────────────────────────────────────────</text>
+<text x="32" y="308" fill="#c9d1d9" font-weight="normal"></text>
+<text x="32" y="328" xml:space="preserve"><tspan fill="#79c0ff" font-weight="normal">┌─[</tspan><tspan fill="#3fb950" font-weight="normal">mohamed⼺Darksec</tspan><tspan fill="#79c0ff" font-weight="normal">]─[</tspan><tspan fill="#e3b341" font-weight="normal">~/skills</tspan><tspan fill="#79c0ff" font-weight="normal">]</tspan></text>
+<text x="32" y="348" xml:space="preserve"><tspan fill="#79c0ff" font-weight="normal">└──╼ </tspan><tspan fill="#f0f6fc" font-weight="normal">cat skill_matrix.conf</tspan></text>
+<text x="32" y="368" fill="#c9d1d9" font-weight="normal"></text>
+<text x="32" y="388" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  Web Pentesting    </tspan><tspan fill="#3fb950" font-weight="normal">█████████████</tspan><tspan fill="#484f58" font-weight="normal">░░░░░░░░░░</tspan><tspan fill="#484f58" font-weight="normal">  55%</tspan></text>
+<text x="32" y="408" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  OSINT             </tspan><tspan fill="#3fb950" font-weight="normal">███████████████████</tspan><tspan fill="#484f58" font-weight="normal">░░░░</tspan><tspan fill="#484f58" font-weight="normal">  83%</tspan></text>
+<text x="32" y="428" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  Purple Teaming    </tspan><tspan fill="#3fb950" font-weight="normal">████████████████</tspan><tspan fill="#484f58" font-weight="normal">░░░░░░░</tspan><tspan fill="#484f58" font-weight="normal">  70%</tspan></text>
+<text x="32" y="448" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  Reverse Eng.      </tspan><tspan fill="#3fb950" font-weight="normal">█████████████████</tspan><tspan fill="#484f58" font-weight="normal">░░░░░░</tspan><tspan fill="#484f58" font-weight="normal">  76%</tspan></text>
+<text x="32" y="468" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  Binary Exploit    </tspan><tspan fill="#3fb950" font-weight="normal">██████████████████</tspan><tspan fill="#484f58" font-weight="normal">░░░░░</tspan><tspan fill="#484f58" font-weight="normal">  80%</tspan></text>
+<text x="32" y="488" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  Forensics         </tspan><tspan fill="#3fb950" font-weight="normal">████████████████</tspan><tspan fill="#484f58" font-weight="normal">░░░░░░░</tspan><tspan fill="#484f58" font-weight="normal">  70%</tspan></text>
+<text x="32" y="508" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  SOC / Blue Team   </tspan><tspan fill="#3fb950" font-weight="normal">██████████████████████</tspan><tspan fill="#484f58" font-weight="normal">░</tspan><tspan fill="#484f58" font-weight="normal">  96%</tspan></text>
+<text x="32" y="528" fill="#c9d1d9" font-weight="normal"></text>
+<text x="32" y="548" fill="#484f58" font-weight="normal">──────────────────────────────────────────────────────────────────────────</text>
+<text x="32" y="568" fill="#c9d1d9" font-weight="normal"></text>
+<text x="32" y="588" xml:space="preserve"><tspan fill="#79c0ff" font-weight="normal">┌─[</tspan><tspan fill="#3fb950" font-weight="normal">mohamed⼺Darksec</tspan><tspan fill="#79c0ff" font-weight="normal">]─[</tspan><tspan fill="#e3b341" font-weight="normal">~/stack</tspan><tspan fill="#79c0ff" font-weight="normal">]</tspan></text>
+<text x="32" y="608" xml:space="preserve"><tspan fill="#79c0ff" font-weight="normal">└──╼ </tspan><tspan fill="#f0f6fc" font-weight="normal">ls tools/ &amp;&amp; uname -a</tspan></text>
+<text x="32" y="628" fill="#c9d1d9" font-weight="normal"></text>
+<text x="32" y="648" xml:space="preserve"><tspan fill="#ff7b72" font-weight="normal">  LANG    </tspan><tspan fill="#79c0ff" font-weight="normal"> [Python]</tspan><tspan fill="#79c0ff" font-weight="normal"> [Bash]</tspan><tspan fill="#79c0ff" font-weight="normal"> [C/C++]</tspan><tspan fill="#79c0ff" font-weight="normal"> [Powershell]</tspan></text>
+<text x="32" y="668" xml:space="preserve"><tspan fill="#ff7b72" font-weight="normal">  OS      </tspan><tspan fill="#d2a8ff" font-weight="normal"> [Arch Linux]</tspan><tspan fill="#d2a8ff" font-weight="normal"> [Kali WSL2]</tspan><tspan fill="#d2a8ff" font-weight="normal"> [Windows 11]</tspan></text>
 <text x="32" y="688" fill="#c9d1d9" font-weight="normal"></text>
-<text x="32" y="708" xml:space="preserve"><tspan fill="#79c0ff" font-weight="normal">┌─[</tspan><tspan fill="#3fb950" font-weight="normal">mohamed⼺Darksec</tspan><tspan fill="#79c0ff" font-weight="normal">]─[</tspan><tspan fill="#e3b341" font-weight="normal">~/stack</tspan><tspan fill="#79c0ff" font-weight="normal">]</tspan></text>
-<text x="32" y="728" xml:space="preserve"><tspan fill="#79c0ff" font-weight="normal">└──╼ </tspan><tspan fill="#f0f6fc" font-weight="normal">ls tools/ &amp;&amp; uname -a</tspan></text>
-<text x="32" y="748" fill="#c9d1d9" font-weight="normal"></text>
-<text x="32" y="768" xml:space="preserve"><tspan fill="#ff7b72" font-weight="normal">  LANG    </tspan><tspan fill="#79c0ff" font-weight="normal"> [Python]</tspan><tspan fill="#79c0ff" font-weight="normal"> [Bash]</tspan><tspan fill="#79c0ff" font-weight="normal"> [C/C++]</tspan><tspan fill="#79c0ff" font-weight="normal"> [Powershell]</tspan></text>
-<text x="32" y="788" xml:space="preserve"><tspan fill="#ff7b72" font-weight="normal">  OS      </tspan><tspan fill="#d2a8ff" font-weight="normal"> [Arch Linux]</tspan><tspan fill="#d2a8ff" font-weight="normal"> [Kali WSL2]</tspan><tspan fill="#d2a8ff" font-weight="normal"> [Windows 11]</tspan></text>
-<text x="32" y="808" fill="#c9d1d9" font-weight="normal"></text>
-<text x="32" y="828" fill="#484f58" font-weight="normal">──────────────────────────────────────────────────────────────────────────</text>
-<text x="32" y="848" fill="#c9d1d9" font-weight="normal"></text>
-<text x="32" y="868" xml:space="preserve"><tspan fill="#79c0ff" font-weight="normal">┌─[</tspan><tspan fill="#3fb950" font-weight="normal">mohamed⼺Darksec</tspan><tspan fill="#79c0ff" font-weight="normal">]─[</tspan><tspan fill="#e3b341" font-weight="normal">~</tspan><tspan fill="#79c0ff" font-weight="normal">]</tspan></text>
-<text x="32" y="888" xml:space="preserve"><tspan fill="#79c0ff" font-weight="normal">└──╼ </tspan><tspan fill="#f0f6fc" font-weight="normal">echo $CONTACT</tspan></text>
-<text x="32" y="908" fill="#c9d1d9" font-weight="normal"></text>
-<text x="32" y="928" fill="#484f58" font-weight="normal">  ┌────────────────────────────────────────────────────┐</text>
-<text x="32" y="948" xml:space="preserve"><tspan fill="#484f58" font-weight="normal">  │</tspan><tspan fill="#79c0ff" font-weight="normal">  ❯  github    ·  github.com/mhdgning131        </tspan><tspan fill="#484f58" font-weight="normal">│</tspan></text>
-<text x="32" y="968" xml:space="preserve"><tspan fill="#484f58" font-weight="normal">  │</tspan><tspan fill="#79c0ff" font-weight="normal">  ❯  linkedin  ·  Mohamed G.                    </tspan><tspan fill="#484f58" font-weight="normal">│</tspan></text>
-<text x="32" y="988" xml:space="preserve"><tspan fill="#484f58" font-weight="normal">  │</tspan><tspan fill="#79c0ff" font-weight="normal">  ❯  mail      ·  hello@mohamedg.me             </tspan><tspan fill="#484f58" font-weight="normal">│</tspan></text>
-<text x="32" y="1008" xml:space="preserve"><tspan fill="#484f58" font-weight="normal">  │</tspan><tspan fill="#8b949e" font-weight="normal">  ❯  locale    ·  Dakar / Rufisque · Sénégal    </tspan><tspan fill="#484f58" font-weight="normal">│</tspan></text>
-<text x="32" y="1028" fill="#484f58" font-weight="normal">  └────────────────────────────────────────────────────┘</text>
-<text x="32" y="1048" fill="#c9d1d9" font-weight="normal"></text>
-<text x="32" y="1068" fill="#484f58" font-weight="normal">  // always down to collab on:</text>
-<text x="32" y="1088" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  </tspan><tspan fill="#3fb950" font-weight="normal">CTF challenges  ·  security tooling  ·  Infosec</tspan></text>
-<text x="32" y="1108" fill="#c9d1d9" font-weight="normal"></text>
-<text x="430" y="1128" text-anchor="middle" fill="#484f58" font-weight="normal">──────────────────────────────────────────────────────────────────────────</text>
-<text x="32" y="1148" fill="#c9d1d9" font-weight="normal"></text>
-<text x="430" y="1168" text-anchor="middle" fill="#484f58">[ hack the planet · learn · teach · repeat ]</text>
-<text x="32" y="1188" fill="#c9d1d9" font-weight="normal"></text>
+<text x="32" y="708" fill="#484f58" font-weight="normal">──────────────────────────────────────────────────────────────────────────</text>
+<text x="32" y="728" fill="#c9d1d9" font-weight="normal"></text>
+<text x="32" y="748" xml:space="preserve"><tspan fill="#79c0ff" font-weight="normal">┌─[</tspan><tspan fill="#3fb950" font-weight="normal">mohamed⼺Darksec</tspan><tspan fill="#79c0ff" font-weight="normal">]─[</tspan><tspan fill="#e3b341" font-weight="normal">~</tspan><tspan fill="#79c0ff" font-weight="normal">]</tspan></text>
+<text x="32" y="768" xml:space="preserve"><tspan fill="#79c0ff" font-weight="normal">└──╼ </tspan><tspan fill="#f0f6fc" font-weight="normal">echo $CONTACT</tspan></text>
+<text x="32" y="788" fill="#c9d1d9" font-weight="normal"></text>
+<text x="32" y="808" fill="#484f58" font-weight="normal">  ┌────────────────────────────────────────────────────┐</text>
+<text x="32" y="828" xml:space="preserve"><tspan fill="#484f58" font-weight="normal">  │</tspan><tspan fill="#79c0ff" font-weight="normal">  ❯  github    ·  github.com/mhdgning131        </tspan><tspan fill="#484f58" font-weight="normal">│</tspan></text>
+<text x="32" y="848" xml:space="preserve"><tspan fill="#484f58" font-weight="normal">  │</tspan><tspan fill="#79c0ff" font-weight="normal">  ❯  linkedin  ·  Mohamed G.                    </tspan><tspan fill="#484f58" font-weight="normal">│</tspan></text>
+<text x="32" y="868" xml:space="preserve"><tspan fill="#484f58" font-weight="normal">  │</tspan><tspan fill="#79c0ff" font-weight="normal">  ❯  mail      ·  hello@mohamedg.me             </tspan><tspan fill="#484f58" font-weight="normal">│</tspan></text>
+<text x="32" y="888" xml:space="preserve"><tspan fill="#484f58" font-weight="normal">  │</tspan><tspan fill="#8b949e" font-weight="normal">  ❯  locale    ·  Dakar / Rufisque · Sénégal    </tspan><tspan fill="#484f58" font-weight="normal">│</tspan></text>
+<text x="32" y="908" fill="#484f58" font-weight="normal">  └────────────────────────────────────────────────────┘</text>
+<text x="32" y="928" fill="#c9d1d9" font-weight="normal"></text>
+<text x="32" y="948" fill="#484f58" font-weight="normal">  // always down to collab on:</text>
+<text x="32" y="968" xml:space="preserve"><tspan fill="#c9d1d9" font-weight="normal">  </tspan><tspan fill="#3fb950" font-weight="normal">CTF challenges  ·  security tooling  ·  Infosec</tspan></text>
+<text x="32" y="988" fill="#c9d1d9" font-weight="normal"></text>
+<text x="430" y="1008" text-anchor="middle" fill="#484f58" font-weight="normal">──────────────────────────────────────────────────────────────────────────</text>
+<text x="32" y="1028" fill="#c9d1d9" font-weight="normal"></text>
+<text x="430" y="1048" text-anchor="middle" fill="#484f58">[ hack the planet · learn · teach · repeat ]</text>
+<text x="32" y="1068" fill="#c9d1d9" font-weight="normal"></text>
 </svg>
